@@ -1,0 +1,4 @@
+README.md
+.gitignore
+new_folder/intro.txt
+new_words.txt
